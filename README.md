@@ -27,7 +27,7 @@ The application is written using Shell Scripting.
 
 
   * Enter last name.
-  mpup
+  
   ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/4.R_lname.png)
 
 
