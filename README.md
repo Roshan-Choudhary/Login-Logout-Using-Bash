@@ -11,66 +11,71 @@ The application is written using Shell Scripting.
 ## Screenshots
 
   * Run ./.main.sh
+  
+  
+  ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/1.main.png)
+  
   * For a New user Enter 2 and Start registration.
   
-  ![Database]()
+  
+  ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/2.main_page.png)
 
 
   * Enter first name.
   
-  ![Database]()
+  ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/3.R_fname.png)
 
 
   * Enter last name.
   mpup
-  ![Database]()
+  ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/4.R_lname.png)
 
 
   * Enter email id.
   
-  ![Database]()
+  ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/5.R_email.png)
 
 
   * Enter phone number.
   
-  ![Database]()
+  ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/6.R_phone.png)
 
 
   * Enter user name.
   Note :- User name must be uniue.
   
-  ![Database]()
+  ![Database]https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/7.R_user_name.png()
 
 
   * Enter Password
   Note:- Password must be of minimum length of 6.
   
-  ![Database]()
+  ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/8.R_password.png)
 
 
   * User Registered Successfully.
   -Now Enter 1 to go to main menu again.
   
-  ![Database]()
+  ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/9.R_Successful.png)
 
 
   * Enter 1 to Login.
   
-  ![Database]()
+  ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/10.main.png)
 
 
   * Enter your user name.
   
-  ![Database]()
+  ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/11.L_user_name.png)
 
 
   * Enter your password.
   
-  ![Database]()
+  ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/12.L_password.png)
 
 
   * Logged in.
   
-  ![Database]()
+  ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/13.Loggedin.png)
 
 
