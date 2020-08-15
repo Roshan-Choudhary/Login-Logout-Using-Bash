@@ -2,7 +2,6 @@
 * Developed a login/logout feature using Shell scripting and MySQL.
 
 ## Tools & Frameworks
-
 The application is written using Shell Scripting.
 
 **Database & configuration**
@@ -11,9 +10,15 @@ The application is written using Shell Scripting.
 ## Db table
 ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/db.png)
 
+## How to run it?
+ Use FIGlet to display large characters made up of ordinary screen characters. To quick install instructions of figlet on Ubuntu Server.
+ Use command: sudo apt-get install -y figlet
+ 
+ After this, Run file main.sh using ./main.sh in shell.
+
 ## Screenshots
 
-  * Run ./.main.sh
+  * Run ./main.sh
   
   
   ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/1.main.png)
@@ -45,13 +50,13 @@ The application is written using Shell Scripting.
 
 
   * Enter user name.
-  Note :- User name must be uniue.
+  ***Note*** :- User name must be uniue.
   
   ![Database]https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/7.R_user_name.png()
 
 
   * Enter Password
-  Note:- Password must be of minimum length of 6.
+  ***Note***:- Password must be of minimum length of 6.
   
   ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/8.R_password.png)
 
