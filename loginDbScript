@@ -1,0 +1,18 @@
+create schema feedbyme;
+
+use feedbyme
+
+CREATE TABLE user(
+user_name varchar(50) NOT NULL,
+firstname VARCHAR(30) NOT NULL,
+lastname VARCHAR(30),
+email VARCHAR(50),
+password VARCHAR(50) NOT NULL,
+phone VARCHAR(10) NOT NULL, 
+reg_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+PRIMARY KEY(user_name)
+)
+
+#Entry Template
+INSERT INTO user values('roshan03','Roshan','Choudhary','smplyrsn@gmail.com','a1234@','7004467948',CURRENT_TIMESTAMP);
+
