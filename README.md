@@ -8,6 +8,9 @@ The application is written using Shell Scripting.
 **Database & configuration**
 * MySQL
 
+## Db table
+![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/db.png)
+
 ## Screenshots
 
   * Run ./.main.sh
