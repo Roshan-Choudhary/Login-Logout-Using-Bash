@@ -52,7 +52,7 @@ The application is written using Shell Scripting.
   * Enter user name.
   ***Note*** :- User name must be uniue.
   
-  ![Database]https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/7.R_user_name.png()
+  ![Database](https://github.com/Roshan-Choudhary/Login-Logout-Using-Bash/blob/master/Screeshots/7.R_user_name.png)
 
 
   * Enter Password
